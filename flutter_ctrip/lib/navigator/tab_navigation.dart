@@ -20,7 +20,7 @@ class _TabNavigationState extends State<TabNavigation> {
   final Map<String,IconData> _items_map = {
     "首页":Icons.home,
     "行程":Icons.date_range,
-    "旅拍":Icons.card_travel,
+    "旅拍":Icons.camera_alt,
     "客服":Icons.mood,
     "我的":Icons.person
   };

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:flutter_ctrip/navigator/tab_navigation.dart';
 
 void main() => runApp(Ctrip());
@@ -8,7 +9,7 @@ class Ctrip extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Ctrip',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
